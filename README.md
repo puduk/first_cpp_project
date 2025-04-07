@@ -46,14 +46,14 @@ g++ main.cpp -o user_data
 -------------------- USER DATA --------------------
 Name:                     Mert
 Surname:                  Demir
-Country:                  Turkey T
+Country:                  Poland P
 Age:                      21
 Gender:                   M
-Height:                   1.72
-Weight:                   54
+Height:                   1.80
+Weight:                   70
 Phone number:             1234567890
 
->> BMI score: 18.2
+>> BMI score: 21.6
 >> Is Eligible: true
 >> Is Eligible: 1
 
