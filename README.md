@@ -70,5 +70,8 @@ CS        |99
 -------------------- USER DATA --------------------
 
 ---
+```
+## 🪪 License
 
+This project is licensed under the [MIT License](https://github.com/puduk/first_cpp_project/blob/main/LICENSE) © 2025 [puduk](https://github.com/puduk)
 
